@@ -1,0 +1,14 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+#p1{
+  background-color: black;
+  color: white;
+}
+
+#b1{
+  background-color: red;
+  color: white;
+}
